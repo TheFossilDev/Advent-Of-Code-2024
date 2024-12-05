@@ -31,3 +31,7 @@ I'm writing this from day 3. The first part was easy enough with a simple "assum
 
 - **Part 1 regex:** `mul\([1-9]+[0-9]*,[1-9]+[0-9]*\)`
 - **Part 2 regex:** `(?:mul\([1-9][0-9]*,[1-9][0-9]*\)|do\(\)|don't\(\))`
+
+## Day 4
+
+I used to ***hate*** 2d-array traversal problems. At first glance I thought this was already a graph problem and I was concerned. Thankfully the limited search string only being 4 characters really put me at ease. I think the times I was most frustrated while programming was while writing these types of problems. I feel like you need to get all the way through with your logic before trying to visualize it. So I would always drive myself up a creek and end up without a paddle trying to debug my way back to sanity. *Bad times...* So with how well this went I was floored and honestly I healed my inner collegiate programmer. I wrote Part 1 in an entire one-shot and got correct answers on the first run. And then with the shake up in Part two, honestly I found it simpler than part 1. I know that's a thing in this game sometimes, so it's a pleasant surprise. I think you'll find my solutions clean, dear reader.
